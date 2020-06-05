@@ -13,3 +13,5 @@ spring:
   application: 
     name: microservicecloud-config-cssth-test
 #  保存为UTF-8格式
+config:
+  info: this is application.config.info
