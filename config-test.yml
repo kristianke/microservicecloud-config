@@ -1,3 +1,5 @@
 spring:
   application: 
     name: config-cssth-test
+config:
+  info: this is config.test
